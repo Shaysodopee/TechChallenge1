@@ -135,7 +135,6 @@ If your Jenkins EC2 instance does not use an IAM role, configure AWS credentials
 
 - Push this project to a private GitHub repository.
 - Make sure the repository includes this README.
-- Share the private repository with `michaeltayo96@outlook.com`.
 - Submit the Jenkins URL and credentials in the submission form.
 - Submit the deployed frontend URL in the submission form.
 - Confirm the frontend displays a successful backend connection message.
